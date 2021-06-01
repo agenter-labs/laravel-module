@@ -1,5 +1,5 @@
 {
-    "name": "akaunting/laravel-module",
+    "name": "agenter-labs/laravel-module",
     "description": "Module management package for Laravel",
     "keywords": ["laravel", "module", "rad", "akaunting"],
     "license": "MIT",
